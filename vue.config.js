@@ -8,5 +8,5 @@
 // github pages
 module.exports = {
   publicPath: 'simple-github-pages',
-  outputDir: 'docs',
+  outputDir: 'docs'
 }
