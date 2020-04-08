@@ -1,4 +1,4 @@
-// // defoult
+// defoult
 // module.exports = {
 //   "transpiledependencies": [
 //     "vuetify"
