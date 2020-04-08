@@ -1,12 +1,14 @@
 // defoult
 // module.exports = {
-//   "transpiledependencies": [
-//     "vuetify"
-//   ]
+  // "transpiledependencies": [
+  //   "vuetify"
+  // ]
 // }
 
-// github pages
+// // github pages
 module.exports = {
-  publicPath: 'simple-github-pages',
-  outputDir: 'docs'
+  // publicPath: './simple-github-pages',
+  outputDir: 'docs',
+  // assetsDir: './',
+  // publicPath: './',
 }
